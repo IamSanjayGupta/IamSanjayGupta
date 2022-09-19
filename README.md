@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjay Gupta</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsanjaygupta" alt="iamsanjaygupta" /></a> </p>
+<h1 align="">Hi 👋, I'm Sanjay Gupta</h1>
+<h3 align="">A passionate Full Stack Web Developer</h3>
 
 
 
@@ -26,5 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsanjaygupta&show_icons=true&locale=en&layout=compact" alt="iamsanjaygupta" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsanjaygupta" alt="iamsanjaygupta" /></a> </p>
 
 
