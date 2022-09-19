@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS, node, JavaScript, mongoDB**
+- 🌱 I’m currently learning **ReactJS, Redux**
 
 - 👨‍💻 All of my projects are available at [https://iamsanjaygupta.github.io/](https://iamsanjaygupta.github.io/)
 
