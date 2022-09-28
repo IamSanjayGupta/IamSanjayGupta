@@ -16,14 +16,15 @@
 - 📫 How to reach me **sanjay.g.258@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/iamsanjaygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsanjaygupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamsanjaygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamsanjaygupta" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/iamsanjaygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/iamsanjaygupta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -158,16 +159,10 @@
  
 </p>
 
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamSanjayGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSanjayGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## My Github Stats
+
+<a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamSanjayGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSanjayGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsanjaygupta" alt="iamsanjaygupta" /></a> </p>
  -->
