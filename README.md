@@ -2,12 +2,16 @@
 <h3 align="">A passionate Full Stack Web Developer</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-- 🌱 I’m currently learning **ReactJS, Redux**
+
+- 🌱 I’m currently learning **TypeScript, Redux**
 
 - 👨‍💻 All of my projects are available at [https://iamsanjaygupta.github.io/](https://iamsanjaygupta.github.io/)
 
 - 👀 Looking for contribution in ReactJS Project
+
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **sanjay.g.258@gmail.com**
 
@@ -36,6 +40,9 @@
       width="40"
       height="40"
     />
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -147,6 +154,8 @@
       height="40"
     />
   </a>
+
+ 
 </p>
 
 
