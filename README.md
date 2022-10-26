@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Sanjay Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
@@ -159,7 +160,7 @@
  
 </p>
 
-## My Github Stats
+## My Github Stats:
 
 <a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamSanjayGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/IamSanjayGupta/github-readme-stats"><img alt="Sanjay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSanjayGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
