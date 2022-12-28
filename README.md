@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **sanjay.g.258@gmail.com**
 
+- 📃 My [Resume](https://github.com/IamSanjayGupta/RESUME/raw/main/Sanjay-Gupta-Resume.pdf)
+
 
 ## Connect with me:
 
