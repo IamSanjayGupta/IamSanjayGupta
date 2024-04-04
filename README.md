@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89f8108b8767d26826dbad2b335f5a38f746f043600ffdf1dbe647cfbc70da4a/68747470733a2f2f626179616e626f782e69722f766965772f343132343433393534313539333832393336352f776562646576656c6f706d656e7431302e676966"/>
 
 
-- 🌱 I’m currently learning **postgreSQL, NextJS**
+- 🌱 I’m currently learning **PostgreSQL, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://iamsanjaygupta.github.io/](https://iamsanjaygupta.github.io/)
 
