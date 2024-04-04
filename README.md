@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89f8108b8767d26826dbad2b335f5a38f746f043600ffdf1dbe647cfbc70da4a/68747470733a2f2f626179616e626f782e69722f766965772f343132343433393534313539333832393336352f776562646576656c6f706d656e7431302e676966"/>
 
 
-- 🌱 I’m currently learning **MongoDB, postgreSQL**
+- 🌱 I’m currently learning **postgreSQL, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://iamsanjaygupta.github.io/](https://iamsanjaygupta.github.io/)
 
