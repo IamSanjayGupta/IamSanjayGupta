@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjay Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<p align="center">With a year's experience as a Full Stack Developer and 1000+ hours of intensive bootcamp training, I'm passionate about applying coding skills to craft innovative solutions. From architecting robust backend systems in NestJS to seamlessly integrating APIs like Twilio and Google Calendar, I thrive on the challenge of creating dynamic web applications. With a keen eye for detail, I pride myself on crafting intuitive user experiences and optimizing performance through meticulous testing. My journey is fueled by the endless possibilities of coding and the opportunity to make a meaningful impact through quality software development.</p>
+<p align="justify">With a year's experience as a Full Stack Developer and 1000+ hours of intensive bootcamp training, I'm passionate about applying coding skills to craft innovative solutions. From architecting robust backend systems in NestJS to seamlessly integrating APIs like Twilio and Google Calendar, I thrive on the challenge of creating dynamic web applications. With a keen eye for detail, I pride myself on crafting intuitive user experiences and optimizing performance through meticulous testing. My journey is fueled by the endless possibilities of coding and the opportunity to make a meaningful impact through quality software development.</p>
 
 <br/>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89f8108b8767d26826dbad2b335f5a38f746f043600ffdf1dbe647cfbc70da4a/68747470733a2f2f626179616e626f782e69722f766965772f343132343433393534313539333832393336352f776562646576656c6f706d656e7431302e676966"/>
